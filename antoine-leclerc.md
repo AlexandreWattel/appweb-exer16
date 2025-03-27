@@ -18,7 +18,7 @@ const dismissAlert = () => {
 };
 ```
 
-La fermeture de une alerte ferme toutes les alertes sans prendre en compte si l'utilisateur a vu toutes les alertes.
+La fermeture de l'une alerte ferme toutes les alertes sans prendre en compte si l'utilisateur a vu toutes les alertes.
 
 ## Revue TS
 
